@@ -8,6 +8,7 @@ body {
 .navbar {
     padding-top: 1rem;
     background-color: #003060;
+    text-align: center;
 }
 /*
 .navbar p {
@@ -24,6 +25,5 @@ li {
     padding: 0.5rem 1.5rem;
     margin-right: 1.5rem;
     display: inline-block;
-    
 }
 
