@@ -5,3 +5,25 @@ body {
     background-color: white;
 }
 
+.navbar {
+    padding-top: 1rem;
+    background-color: #003060;
+}
+/*
+.navbar p {
+   left: 25rem; 
+}
+*/
+ul {
+    list-style: none;
+    margin: 0;
+}
+
+li {
+    color: white;
+    padding: 0.5rem 1.5rem;
+    margin-right: 1.5rem;
+    display: inline-block;
+    
+}
+
