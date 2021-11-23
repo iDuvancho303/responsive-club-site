@@ -29,18 +29,18 @@ li {
     background-image: url(/images/onewheel-background.jpg);
     background-position: center;
     background-repeat: none;
-    opacity: 0.7;
     display: flex; 
 }
 
 .text1 {
-    font-family: ;
+    font-family: 'Roboto Mono' , monospace;
+    font-size: 25px;
     color: #003060;
     font-weight: bolder;
     margin: auto;
     background-color: white;
     width: 100%;
-    opacity: 0.9;
+    opacity: 0.8;
     text-align: center;
 }
 
