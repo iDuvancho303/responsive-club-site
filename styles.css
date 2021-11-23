@@ -60,5 +60,13 @@ li {
     text-decoration: overline;
     font-weight: bold;
 }
+/*ABOUT SECTION ENDS*/
 
+/*PHOTOS SECTION*/
+.photos img {
+    width: 30%;
+    margin: 1.5%;
+    
+}
+/*PHOTOS SECTION ENDS*/
 
