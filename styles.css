@@ -1,5 +1,5 @@
 body {
-    font-family: sans-serif;
+    font-family: 'Montserrat' , sans-serif;
     font-size: 16px;
     margin: 0;
     background-color: white;
@@ -66,7 +66,20 @@ li {
 .photos img {
     width: 30%;
     margin: 1.5%;
-    
 }
 /*PHOTOS SECTION ENDS*/
+
+/*TESTIMONIAL SECTION*/
+.testimonial {
+    background-color: #003060;
+    height: 20rem;
+    padding: 0 1.5rem;
+}
+
+.testimonial h2 {
+    font-size: 2.5rem;
+    color: white;
+    padding-top: 1.5rem;
+}
+/*TESTIMONIAL SECTION ENDS*/
 
