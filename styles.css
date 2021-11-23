@@ -4,6 +4,7 @@ body {
     margin: 0;
     background-color: white;
 }
+/*NAVBAR SECTION*/
 .navbar {
     padding-top: 1rem;
     background-color: #003060;
@@ -22,7 +23,9 @@ li {
     margin-right: 1.5rem;
     display: inline-block;
 }
+/*NAVBAR SECTION ENDS*/
 
+/*INTRO SECTION*/
 .intro {
     height: 30rem;
     padding-top: 1rem;
@@ -42,5 +45,12 @@ li {
     width: 100%;
     opacity: 0.8;
     text-align: center;
+}
+/*INTRO SECTION ENDS*/
+
+/*ABOUT SECTION*/
+.about-us {
+    padding: 0 5rem;
+
 }
 
