@@ -171,10 +171,13 @@ li {
 }
 
 .introduce h3 {
-
+font-family: 'Roboto Mono' , sans-serif;
+font-size: 35px;
+color: #003060;
+text-decoration: overline;
 }
 
 .introduce h4 {
-    
+
 }
 /*JOIN US SECTION ENDS*/
