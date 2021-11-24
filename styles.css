@@ -187,3 +187,16 @@ text-decoration: overline;
     padding-top: 150px;
 }
 /*JOIN US SECTION ENDS*/
+
+/*FOOTER SECTION*/
+footer {
+    background-color: #003060;
+    color: white;
+    height: 50px;
+    text-align: center;
+}
+
+footer .fa-heart {
+    color: red;
+}
+/*FOOTER SECTION ENDS*/
