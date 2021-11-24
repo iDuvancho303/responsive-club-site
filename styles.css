@@ -118,6 +118,8 @@ li {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    
+
 }
 
 #name, #last, #email, #phone {
