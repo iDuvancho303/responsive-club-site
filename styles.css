@@ -87,7 +87,17 @@ li {
 }
 /*TESTIMONIAL SECTION ENDS*/
 
-/*PHOTOS SECTION 2*/
+/*EVENTS SECTION 2*/
+.meetup {
+    margin-bottom: 5rem;
+    background-color: #003060;
+}
 
-/*PHOTOS SECTION 2 ENDS*/
+.meetup h2 {
+    text-align: center;
+    color: white;
+    padding-top: 1.5rem;
+}
+
+/*EVENTS SECTION ENDS*/
 
