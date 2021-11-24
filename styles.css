@@ -99,5 +99,17 @@ li {
     padding-top: 1.5rem;
 }
 
+.meetup img {
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+.meetup h3 {
+    color: white;
+    text-align: center;
+    padding-bottom: 1.5rem;
+}
 /*EVENTS SECTION ENDS*/
 
