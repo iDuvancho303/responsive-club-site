@@ -199,4 +199,8 @@ footer {
 footer .fa-heart {
     color: red;
 }
+
+.footer p  {
+    padding-top: 10px;
+}
 /*FOOTER SECTION ENDS*/
