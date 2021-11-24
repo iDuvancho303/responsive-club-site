@@ -210,4 +210,8 @@ footer .fa-heart {
     .intro h1 {
         margin-top: 2rem;
     }
+
+    .intro {
+        max-height: 200px;
+    }
 }
