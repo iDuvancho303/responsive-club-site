@@ -250,10 +250,10 @@ footer .fa-heart {
 
   }
   
-  @media only screen and (max-width: 320px) {
+  @media only screen and (max-width: 430px) {
   
     .testimonial h2 {
-      font-size: 2rem;
+      font-size: 1.5rem;
     }
   
     .photos img {
