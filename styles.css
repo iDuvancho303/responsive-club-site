@@ -236,7 +236,7 @@ footer .fa-heart {
     }
   
     li {
-      display: block;
+      display: inline-block;
       text-align: center;
     }
 
