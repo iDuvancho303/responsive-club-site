@@ -215,15 +215,17 @@ footer .fa-heart {
     }
   }
   
-  @media only screen and (max-width: 642px) {
+  @media only screen and (max-width: 640px) {
   
     .intro h1 {
       margin-top: 2rem;
     }
   
     .intro {
-      max-height: 200px;
+      max-height: 250px;
     }
+
+    
   
     .photos img {
       width: 100%;
