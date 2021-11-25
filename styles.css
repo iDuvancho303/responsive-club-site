@@ -225,8 +225,10 @@ footer .fa-heart {
       max-height: 250px;
     }
 
-    
-  
+    .text1 h1, h2 {
+        font-size: 20px; 
+    }
+
     .photos img {
       width: 100%;
       margin-left: auto;
@@ -236,6 +238,10 @@ footer .fa-heart {
     li {
       display: block;
       text-align: center;
+    }
+
+    .introduce {
+        padding-top: 0;
     }
   }
   
