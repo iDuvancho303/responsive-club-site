@@ -29,7 +29,7 @@ li {
 .intro {
     height: 30rem;
     padding-top: 1rem;
-    background-image: url(/images/onewheel-background.jpg);
+    background-image: url(images/onewheel-background.jpg);
     background-position: center;
     background-repeat: none;
     display: flex; 
