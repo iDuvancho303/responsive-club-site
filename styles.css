@@ -205,64 +205,31 @@ footer .fa-heart {
 }
 /*FOOTER SECTION ENDS*/
 
-/*MEDIA SECTION*/
-@media only screen and (max-width: 1048px) {
 
-    .photos img {
-      width: 100%;
-      margin-left: auto;
-      margin-right: auto;
-    }
-  }
-  
-  @media only screen and (max-width: 640px) {
-  
-    .intro h1 {
-      margin-top: 2rem;
-    }
-  
-    .intro {
-      max-height: 250px;
-    }
 
-    .text1 h1, h2 {
-        font-size: 20px; 
-    }
+/*MEDIA QUERY SECTION*/
 
-    .photos img {
-      width: 100%;
-      margin-left: auto;
-      margin-right: auto;
-    }
+/*NAVBAR SECTION*/
+.navbar {
+    padding-top: 1rem;
+    background-color: #003060;
+    text-align: center;
+    font-weight: bold;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+}
+
+li {
+    color: white;   
+    padding: 0.5rem 1.5rem;
+    margin-right: 1.5rem;
+    display: inline-block;
+}
+/*NAVBAR SECTION ENDS*/
+
+
   
-    li {
-      display: inline-block;
-      text-align: center;
-    }
-
-    .introduce {
-        padding-top: 0;
-    }
-
-    .testimonial h2 {
-        font-size: 2rem;
-    }
-
-  }
-  
-  @media only screen and (max-width: 430px) {
-    
-    li {
-        display: block;
-
-    }
-  
-    .testimonial h2 {
-      font-size: 1.6rem;
-    }
-  
-    .photos img {
-      width: 100%;
-    }
-  }
   
