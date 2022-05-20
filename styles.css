@@ -275,7 +275,7 @@ li {
 
 /*EVENTS SECTION*/
 .meetup {
-    margin-bottom: none; /* */
+    margin-bottom: 0; /* */
 }
 
 .meetup h2 {
@@ -287,6 +287,7 @@ li {
     height: auto;
     display: block;
     margin: auto;
+
 }
 
 .meetup h3 {
@@ -295,6 +296,78 @@ li {
     padding-bottom: 1.5rem; /* */
 }
 /*EVENTS SECTION ENDS*/
+
+/*JOIN US SECTION*/
+#join {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+
+}
+
+#name, #last, #email, #phone {
+    display: block;
+    width: 400px;
+    height: 2rem;
+    margin: 20px auto;
+    border-radius: 10px;
+    color: #003060;
+    font-size: 14px;
+    font-weight: bolder;
+    text-align: center;
+    background-color: white;
+    border: 3px solid white;
+}
+
+#comments {
+    display: block;
+    width: 400px;
+    margin: 20px auto;
+    border-radius: 10px;
+    color: #003060;
+    font-size: 14px;
+    font-weight: bolder;
+    text-align: center;
+    background-color: white;
+    border: 3px solid white;
+    resize: none;
+}
+
+#submit {
+    display: block;
+    width: 200px;
+    height: 1.5rem;
+    border-radius: 5px;
+    color: #003060;
+    font-size: 14px;
+    font-weight: bolder;
+    text-align: center;
+    background-color: white;
+    border: 1px solid white;
+    margin: 20px auto;
+}
+
+.form {
+    background-color: #003060;
+    width: 500px;
+    border-radius: 15px;
+}
+
+.introduce h3 {
+
+font-size: 16px; /* */
+text-decoration: none; /* */
+}
+
+.introduce h4 {
+    font-size: 15px; /* */
+}
+
+.introduce {
+    padding-top: 0; /* */
+}
+/*JOIN US SECTION ENDS*/
 
 
 
