@@ -239,6 +239,18 @@ li {
 }
 /*INTRO SECTION ENDS*/
 
+/*ABOUT SECTION*/
+.about-us {
+    padding: 0 1rem; /* */
+}
+
+.about-us h2 {
+    font-size: 16px; /* */
+    text-decoration: none;
+    font-weight: bold;
+}
+/*ABOUT SECTION ENDS*/
+
 
 }
 
