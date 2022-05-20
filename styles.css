@@ -351,6 +351,18 @@ text-align: center; /* */
 }
 /*JOIN US SECTION ENDS*/
 
+/*FOOTER SECTION*/
+footer {
+    height: 25px; /* */
+}
+
+
+.footer p  {
+    padding-top: 5px; /* */
+    font-size: 12px; /* */
+}
+/*FOOTER SECTION ENDS*/
+
 }
 
 
