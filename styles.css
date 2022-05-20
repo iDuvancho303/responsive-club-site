@@ -216,14 +216,9 @@ footer .fa-heart {
     padding-top: 0rem; /* */
 }
 
-ul {
-    list-style: none;
-    margin: 0;
-}
 
-li {
-    color: white;   
-    padding: 0.5rem 1.5rem;
+li {   
+    padding: 1rem 1.0rem; /* */
     margin-right: 1.5rem;
     display: inline-block;
 }
