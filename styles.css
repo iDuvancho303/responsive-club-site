@@ -220,11 +220,24 @@ footer .fa-heart {
 li {   
     padding: 1rem 1.0rem; /* */
     margin-right: 0rem; /* */
-    
+
+}
+/*NAVBAR SECTION ENDS*/
+
+/*INTRO SECTION*/
+.intro {
+    height: 25rem; /* */
+    padding-top: 0rem; /* */
 }
 
+.text1 {
+    font-size: 16px; /* */
+}
 
-/*NAVBAR SECTION ENDS*/
+.text1 h2 {
+    font-size: 15px;
+}
+/*INTRO SECTION ENDS*/
 
 
 }
