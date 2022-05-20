@@ -262,6 +262,17 @@ li {
 }
 /*PHOTOS SECTION ENDS*/
 
+/*TESTIMONIAL SECTION*/
+.testimonial {
+    height: 10rem; /* */
+    padding: 0 1rem; /* */
+}
+
+.testimonial h2 {
+    font-size: 16px; /* */
+}
+/*TESTIMONIAL SECTION ENDS*/
+
 
 }
 
