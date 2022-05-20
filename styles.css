@@ -87,7 +87,7 @@ li {
 }
 /*TESTIMONIAL SECTION ENDS*/
 
-/*EVENTS SECTION 2*/
+/*EVENTS SECTION*/
 .meetup {
     margin-bottom: 5rem;
     background-color: #003060;
@@ -272,6 +272,30 @@ li {
     font-size: 16px; /* */
 }
 /*TESTIMONIAL SECTION ENDS*/
+
+/*EVENTS SECTION*/
+.meetup {
+    margin-bottom: none; /* */
+}
+
+.meetup h2 {
+    font-size: 16px; /* */
+}
+
+.meetup img {
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+.meetup h3 {
+    font-size: 15px; /* */
+    padding: 0 1.5rem; /* */
+    padding-bottom: 1.5rem; /* */
+}
+/*EVENTS SECTION ENDS*/
+
 
 
 }
