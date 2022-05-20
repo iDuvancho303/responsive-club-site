@@ -300,8 +300,7 @@ li {
 /*JOIN US SECTION*/
 #join {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
+    flex-wrap:wrap;
     
 
 }
@@ -355,7 +354,6 @@ li {
 }
 
 .introduce h3 {
-
 font-size: 16px; /* */
 text-decoration: none; /* */
 }
@@ -365,7 +363,7 @@ text-decoration: none; /* */
 }
 
 .introduce {
-    padding-top: 0; /* */
+    padding-top: 0 ; /* */
 }
 /*JOIN US SECTION ENDS*/
 
