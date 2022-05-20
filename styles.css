@@ -219,9 +219,11 @@ footer .fa-heart {
 
 li {   
     padding: 1rem 1.0rem; /* */
-    margin-right: 1.5rem;
-    display: inline-block;
+    margin-right: 0rem; /* */
+    
 }
+
+
 /*NAVBAR SECTION ENDS*/
 
 
